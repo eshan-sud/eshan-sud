@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning : Web development
 - 📫 How to reach me : eshansud22@gmail.com
-- <img src = https://github.com/eshan-sud/eshan-sud/assets/113531303/71439ca9-e17a-415b-b82a-34a851da353e height = 20px width = 20px> Linkedin : https://www.linkedin.com/in/eshan-sud/
-
 
 <h3 align="left"> Languages and Tools : </h3>
 <p align="left">
