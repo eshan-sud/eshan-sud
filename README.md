@@ -4,14 +4,25 @@
 
 ___
 
-<h2> I'm a software developer completing my B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur </a> </h2>
+<h2>
+  I'm a software developer completing my B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur </a>
+</h2>
 
 - 🌱 I’m currently learning : Frontend Development
 - 📫 How to reach me : eshansud22@gmail.com
+- ⚡ Fun fact: I truely enjoy every time I get stuck on my code
 
-<h2 align = "left"> Contact Me : </h2>
+<h2 align = "left"> 
+  Contact Me :
+</h2>
 
-<a href="https://www.linkedin.com/in/eshan-sud/" rel="nofollow"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feshan-sud%2F" style="max-width: 100%;"> </a>  
+<a href="https://www.linkedin.com/in/eshan-sud/" rel="nofollow"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feshan-sud%2F" style="max-width: 100%;">
+</a>
+
+<h2>
+  Languages and Tools I Know :
+</h2>
 
 <p align = "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -30,7 +41,6 @@ ___
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
 Android    : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
 Angular    : <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
