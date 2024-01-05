@@ -6,6 +6,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eshan Sud
 =================================================================================================================================
 
+<p>
+  Hello GitHub community,
+  I am an enthusiastic student currently pursuing a bachelor's degree in computer science and engineering at Manipal University Jaipur.
+  My primary focus lies in establishing a strong foundation in core concepts, such as Data Structures and Algorithms, and applying them to enhance my programming proficiency.
+  I invite you to join me on my professional journey of continuous learning and contributing to projects that create a positive impact.
+  I look forward to connecting with you.
+</p>
+
 Software Developer
 -----------------
 
