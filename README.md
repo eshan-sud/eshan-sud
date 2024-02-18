@@ -24,7 +24,7 @@ Software Developer
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
 * 🌱 I’m currently learning : Frontend Development
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
-* Currently pursuing a B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur </a>
+* Currently completing my B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur </a>
 
 <h2>
   Languages and Tools I Know :
