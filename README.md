@@ -68,6 +68,12 @@ Software Developer
   </a>
 </p>
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud)](https://github.com/ryo-ma/github-profile-trophy -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Socials
 
 <p align="left">
