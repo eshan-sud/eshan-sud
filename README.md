@@ -23,7 +23,7 @@ Software Developer
 
 * 🌍 I'm based in Delhi, India
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
-* 🌱 I’m currently learning : Frontend Development
+* 🌱 I’m currently learning : Artificial Intelligence & Machine Learning
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
 * Currently pursuing a B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur
 </a>
