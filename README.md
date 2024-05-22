@@ -20,7 +20,7 @@ Portfolio Website : <a href="https://eshan-sud.github.io/portfolio-website/" tar
 Software Developer
 -----------------
 
-* 🌍 I'm based in Delhi, India
+* 🌍 I'm based in New Delhi, India
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
 * 🌱 I’m currently learning : Artificial Intelligence & Machine Learning
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
