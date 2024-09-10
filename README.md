@@ -6,21 +6,19 @@ Hi! My name is Eshan Sud
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 
 <p>
-I’m Eshan Sud, an enthusiastic Computer Science and Engineering student at Manipal University Jaipur.
+👉 I'm Eshan Sud, Computer Science and Engineering student at Manipal University Jaipur.
 
 
-I recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful projects, about which you can read more about on my linkedin profile - <a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
+👉 Recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful projects, about which you can read more about on my linkedin profile -
+<a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
 
 
-These experiences have strengthened my skills in Python, Java, and web development, and deepened my understanding of core concepts such as Data Structures and Algorithms and Object-Oriented Programming.
+👉 Passionate about continuous learning and applying my knowledge to solve real-world problems.
+👉 Looking forward to connecting with professionals and exploring opportunities to contribute to innovative projects.
 
 
-I’m passionate about continuous learning and applying my knowledge to solve real-world problems. I look forward to connecting with professionals and exploring opportunities to contribute to innovative projects.
 
-Let’s connect!
-
-
-Portfolio Website : <a href="https://eshan-sud.github.io/portfolio-website/" target="_blank">https://eshan-sud.github.io/portfolio-website/</a>
+👉 Portfolio Website : <a href="https://eshan-sud.github.io/portfolio-website/" target="_blank">https://eshan-sud.github.io/portfolio-website/</a>
 
 </p>
 
