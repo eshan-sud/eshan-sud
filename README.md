@@ -6,7 +6,7 @@ Hi! My name is Eshan Sud
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 
 <p>
-👉 I'm Eshan Sud, Computer Science and Engineering student at Manipal University Jaipur.
+👉 Computer Science and Engineering student at Manipal University Jaipur.
 
 
 👉 Recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful projects, about which you can read more about on my linkedin profile -
