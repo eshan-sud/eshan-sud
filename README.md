@@ -38,6 +38,17 @@ Software Developer
 
 ### Skills
 
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,flask,git,github,html,java,js,linux,mongodb,mysql,nodejs,npm,opencv,php,postman,py,react,regex,remix,sklearn,svg,tailwind,tensorflow,ubuntu,vscode,windows, " />
+  </a>
+</p>
+-->
+
+<!-- anaconda, androidstudio, angular, arduino, aws, azure, babel, bash, bitbucket, blender, dart, debian, discord, bots, discordjs, django, docker, eclipse, electron, figma, firebase, flutter, gcp, gmail, godot, heroku, instagram, ipfs, jenkins, jest, kafka, kali, kotlin, kubernetes, linkedin, matlab, maven, nextjs, notion, postgres, powershell, pytorch, raspberrypi, redhat, redhat, redux, spring, stackoverflow, supabase, selenium, solidity, swift, threejs, twitter, ts, unity, unreal, vercel, visualstudio,        -->
+
+
 <p align="center">
     <!-- C --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="c"></a>
     <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></a>
