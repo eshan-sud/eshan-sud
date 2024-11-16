@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> I'm on the job market! If you're looking to hire for software engineering role, please view my resume and reach out to me! 
+
+
 <!-- ![github-header-image](https://github.com/eshan-sud/eshan-sud/assets/113531303/15b78725-3896-4a14-befa-30302e0cdf78) -->
 
 Hi! My name is Eshan Sud
