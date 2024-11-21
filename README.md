@@ -1,4 +1,4 @@
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > I'm on the job market! If you're looking to hire for software engineering role, please view my resume and reach out to me! 
 
 
