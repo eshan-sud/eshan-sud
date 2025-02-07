@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I'm on the job market! If you're looking to hire for software engineering role, please view my resume and reach out to me! 
+> I'm currently seeking new opportunities! If you are hiring for a Software Engineering intern role, please feel free to check out my resume and reach out.
 
 
 <!-- ![github-header-image](https://github.com/eshan-sud/eshan-sud/assets/113531303/15b78725-3896-4a14-befa-30302e0cdf78) -->
