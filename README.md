@@ -26,7 +26,7 @@ Hi! My name is Eshan Sud
 
 </p>
 
-Software Developer
+Software Engineer
 -----------------
 
 * 🌍 I'm based in New Delhi, India
@@ -39,25 +39,6 @@ Software Developer
 <h2>
     Domains Explored till now:
 </h2>
-
-- [x] Website / Full-stack Development
-- [x] Software development
-- [x] Machine Learning / Data Analysis
-- [x] Blockchain
-- [x] Robotics - SLAM (Simultaneous Localisation and Mapping)
-
-<h2>
-    Domains to be Explored:
-</h2>
-
-- Cybersecurity
-- Web3
-- Android development
-- DevOps
-- CUDA / Microprocessor
-- Software Testing
-- Game Development
-
 
 <h2>
     Languages & Tools :
