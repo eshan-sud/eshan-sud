@@ -37,10 +37,6 @@ Software Engineer
 </a>
 
 <h2>
-    Domains Explored till now:
-</h2>
-
-<h2>
     Languages & Tools :
 </h2>
 
