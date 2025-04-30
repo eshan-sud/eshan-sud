@@ -12,15 +12,12 @@ Hi! My name is Eshan Sud
 <p>
 👉 Computer Science and Engineering student at Manipal University Jaipur.
 
-
 👉 Recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful live-projects, about which you can read more about on my linkedin profile -
 <a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
 
-
 👉 Passionate about continuous learning and applying my knowledge to solve real-world problems.
+
 👉 Looking forward to connecting with professionals and exploring opportunities to contribute to innovative projects.
-
-
 
 👉 Portfolio Website : <a href="https://eshan-sud.github.io/portfolio-website/" target="_blank">https://eshan-sud.github.io/portfolio-website/</a>
 
