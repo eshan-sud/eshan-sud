@@ -12,6 +12,8 @@ Hi! My name is Eshan Sud
 <p>
 👉 Computer Science and Engineering student at Manipal University Jaipur.
 
+👉 Currently interning at Celebal Technologies, as a Node.js intern.
+
 👉 Recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful live-projects, about which you can read more about on my linkedin profile -
 <a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
 
@@ -28,7 +30,7 @@ Software Engineer
 
 * 🌍 I'm based in New Delhi, India
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
-* 🌱 I’m currently learning : Artificial Intelligence & Machine Learning
+* 🌱 I’m currently exploring: Game Development
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
 * Currently pursuing a B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur
 </a>
@@ -71,12 +73,17 @@ Software Engineer
     <!-- Express.JS --> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"></a>
     <!-- MongoDB -->  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></a>
     <!-- Postman --> <a href="https://postman.com" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></a>
-    <!-- Flask --> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></a>
+    <!-- Flask -->
+    <!-- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></a> -->
     <!-- OpenCV --> <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></a>
-    <!-- PyTorch --> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"></a>
-    <!-- SciKitLearn --> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></a>
-    <!-- Seaborn --> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"></a>
-    <!-- TensorFlow --> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></a>
+    <!-- PyTorch -->
+    <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"></a> -->
+    <!-- SciKitLearn -->
+    <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></a> -->
+    <!-- Seaborn -->
+    <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"></a> -->
+    <!-- TensorFlow -->
+    <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></a> -->
 
 
 </p>
