@@ -12,9 +12,9 @@ Hi! My name is Eshan Sud
 <p>
 👉 Computer Science and Engineering student at Manipal University Jaipur.
 
-👉 Currently interning at Celebal Technologies, as a Node.js intern.
+👉 Interned at Celebal Technologies as a Node.js developer, working on a full-stack, natural language-based restaurant chatbot application with a fully defined CI/CD pipeline and Microsoft Azure deployment.
 
-👉 Recently interned at Exato Technologies Pvt Ltd, where I contributed to several impactful live-projects, about which you can read more about on my linkedin profile -
+👉 Previously interned at Exato Technologies Pvt Ltd, where I contributed to several impactful live-projects, about which you can read more about on my linkedin profile -
 <a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
 
 👉 Passionate about continuous learning and applying my knowledge to solve real-world problems.
