@@ -11,9 +11,11 @@ Hi! My name is Eshan Sud
 
 <p>
 
+👉 Portfolio : <a href="https://eshan-sud.vercel.app/" target="_blank">here</a>
+
 👉 Recently got my patent published in the Indian Patent Office titled, <b>"A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform"</b>
 
-👉 B.Tech in Computer Science & Engineering student at Manipal University Jaipur.
+👉 B.Tech in Computer Science & Engineering with a minor in Data Analytics student at Manipal University Jaipur.
 
 👉 Recently interned at Celebal Technologies Pvt. Ltd. as a Node.js Intern.
 
@@ -24,7 +26,6 @@ Hi! My name is Eshan Sud
 
 👉 Looking forward to connecting with professionals and exploring opportunities to contribute to innovative projects.
 
-👉 Portfolio Website : <a href="https://eshan-sud.github.io/portfolio-website/" target="_blank">https://eshan-sud.github.io/portfolio-website/</a>
 
 </p>
 
@@ -33,7 +34,7 @@ Software Engineer
 
 * 🌍 I'm based in New Delhi, India
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
-* 🌱 I’m currently exploring: Game Development
+* 🌱 I'm currently exploring: Cloud technologies
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
 * Currently pursuing a B.Tech degree at <a href="https://jaipur.manipal.edu/" rel="nofollow"> Manipal University Jaipur
 </a>
