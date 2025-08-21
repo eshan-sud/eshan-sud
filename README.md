@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I'm currently seeking new opportunities! If you are hiring for a Software Engineering intern role, please feel free to check out my resume and reach out.
+> I'm currently seeking new opportunities! If you are hiring for Software Engineering internship / full-time roles, please feel free to check out my resume and reach out [here](mailto:eshansud22@gmail.com).
 
 
 <!-- ![github-header-image](https://github.com/eshan-sud/eshan-sud/assets/113531303/15b78725-3896-4a14-befa-30302e0cdf78) -->
