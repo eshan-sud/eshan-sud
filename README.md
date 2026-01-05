@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I'm currently seeking new opportunities! If you are hiring for Software Engineering internship / full-time roles, please feel free to check out my resume and reach out [here](mailto:eshansud22@gmail.com).
+> I'm currently seeking new opportunities! If you are hiring for Software Engineering internship / full-time roles, please feel free to check out my <a href="https://res.cloudinary.com/dpjhwcj4q/image/upload/resume_eshan_sud.pdf">resume</a> & reach out [here](mailto:eshansud22@gmail.com).
 
 
 <!-- ![github-header-image](https://github.com/eshan-sud/eshan-sud/assets/113531303/15b78725-3896-4a14-befa-30302e0cdf78) -->
@@ -24,7 +24,7 @@ Hi! My name is Eshan Sud
 
 👉 Passionate about continuous learning & applying my knowledge to solve real-world problems.
 
-👉 Looking forward to connecting with professionals and exploring opportunities to contribute to innovative projects.
+👉 Looking forward to connecting with professionals & exploring opportunities to contribute to innovative projects.
 
 
 </p>
