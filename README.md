@@ -1,10 +1,10 @@
-> [!IMPORTANT]
-> I'm currently seeking new opportunities! If you are hiring for Software Engineering internship / full-time roles, please feel free to check out my <a href="https://res.cloudinary.com/dpjhwcj4q/image/upload/resume_eshan_sud.pdf">resume</a> & reach out [here](mailto:eshansud22@gmail.com).
+<!-- > [!IMPORTANT]
+> I'm currently seeking new opportunities! If you are hiring for Software Engineering internship / full-time roles, please feel free to check out my <a href="https://res.cloudinary.com/dpjhwcj4q/image/upload/resume_eshan_sud.pdf">resume</a> & reach out [here](mailto:eshansud22@gmail.com). -->
 
 
 <!-- ![github-header-image](https://github.com/eshan-sud/eshan-sud/assets/113531303/15b78725-3896-4a14-befa-30302e0cdf78) -->
 
-Hi! My name is Eshan Sud
+Hi! I am Eshan Sud
 =================================================================================================================================
 
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
