@@ -13,36 +13,82 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate stats card
+      # -------------------------
+      # Stats Card (Light)
+      # -------------------------
+      - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      # -------------------------
+      # Stats Card (Dark)
+      # -------------------------
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------
+      # Top Languages (Light)
+      # -------------------------
+      - name: Generate top languages card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      # -------------------------
+      # Top Languages (Dark)
+      # -------------------------
+      - name: Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------
+      # Pin Card (Light)
+      # -------------------------
+      - name: Generate pin card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/pin-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # -------------------------
+      # Pin Card (Dark)
+      # -------------------------
+      - name: Generate pin card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=github-readme-stats&theme=github_dark
+          path: profile/pin-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------
+      # Commit & Push
+      # -------------------------
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README cards" || echo "No changes to commit"
           git push
