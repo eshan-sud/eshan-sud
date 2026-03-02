@@ -102,7 +102,8 @@ Software Engineer
 ### Badges
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud)](https://github.com/ryo-ma/github-profile-trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy-7d61bzpey-ryo-ma-s-team.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Socials
