@@ -11,21 +11,25 @@ Hi! I am Eshan Sud
 
 <p>
 
-👉 Portfolio : <a href="https://eshan-sud.vercel.app/" target="_blank">here</a>
+👉 <a href="https://eshan-sud.vercel.app/" target="_blank">Portfolio</a> 
 
-👉 Recently got my patent published in the Indian Patent Office titled, <b>"A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform"</b>
+👉 Currently **interning at Deloitte India** as a **PDI & CMD Intern**
 
-👉 B.Tech in Computer Science & Engineering with a minor in Data Analytics student at Manipal University Jaipur.
+👉 Currently a B.Tech in Computer Science & Engineering with a minor in Data Analytics student from Manipal University Jaipur
 
-👉 Recently interned at Celebal Technologies Pvt. Ltd. as a Node.js Intern.
+👉 Published a patent in the **Indian Patent Office** titled; **A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform**
 
-👉 Previously interned at Exato Technologies Pvt. Ltd., where I contributed to several impactful live-projects, about which you can read more about on my linkedin profile -
-<a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
+👉 Published 2 research papers in **IEEE Access**; one on ORB-SLAM3 & the other on Zero-Knowledge Proofs
 
-👉 Passionate about continuous learning & applying my knowledge to solve real-world problems.
+👉 Passionate about continuous learning & applying my knowledge to solve real-world problems
 
-👉 Looking forward to connecting with professionals & exploring opportunities to contribute to innovative projects.
+👉 Looking forward to connecting with professionals & exploring opportunities to contribute to innovative projects
 
+Previously Interned At:
+-----------------
+- Celebal Technologies Pvt. Ltd. as a Node.js Intern; where, I created an AI-chatbot system with intent recognition
+- Exato Technologies Pvt. Ltd.; where, I contributed to several impactful live-projects
+- About which you can read more about on my LinkedIn profile <a href="https://www.linkedin.com/in/eshan-sud/" target="_blank">here</a>
 
 </p>
 
