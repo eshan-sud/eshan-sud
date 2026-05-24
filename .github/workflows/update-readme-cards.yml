@@ -26,7 +26,6 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       # -------------------------
       # Stats Card (Dark)
       # -------------------------
@@ -48,7 +47,6 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       # -------------------------
       # Top Languages (Dark)
       # -------------------------
@@ -63,24 +61,23 @@ jobs:
       # -------------------------
       # Pin Card (Light)
       # -------------------------
-      - name: Generate pin card (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+      # - name: Generate pin card (light)
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=readme-tools&repo=github-readme-stats
+      #     path: profile/pin-light.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
       # -------------------------
       # Pin Card (Dark)
       # -------------------------
-      - name: Generate pin card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats&theme=github_dark
-          path: profile/pin-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate pin card (dark)
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=readme-tools&repo=github-readme-stats&theme=github_dark
+      #     path: profile/pin-dark.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       # -------------------------
       # Commit & Push
