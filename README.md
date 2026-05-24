@@ -149,10 +149,10 @@ Badges & GitHub Statistics
         <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
         <img height="180em" src="profile/top-langs-light.svg">
     </picture>
-    <picture>
+    <!-- <picture>
         <source media="(prefers-color-scheme: dark)" srcset="profile/pin-dark.svg">
         <img height="120em" src="profile/pin-light.svg">
-    </picture>
+    </picture> -->
 </p>
 
 
