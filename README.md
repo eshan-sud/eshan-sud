@@ -12,12 +12,13 @@ Hi! I am Eshan Sud
 Software Engineer
 -----------------
 
+* 🌐 <a href="https://eshan-sud.vercel.app/" target="_blank">Portfolio</a>
 * 🌍 I'm based in **New Delhi, India**
-* 🌐 <a href="https://eshan-sud.vercel.app/" target="_blank">Portfolio</a> 
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
 * 🎓 Currently a **B.Tech in Computer Science & Engineering with a minor in Data Analytics** at <a href="https://jaipur.manipal.edu/" rel="nofollow">Manipal University Jaipur</a>
 * 💼 Currently **interning at Deloitte India** as a **PDI & CMS Intern**
 * 📜 Published a patent in the **Indian Patent Office** titled; **A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform**
+* 📜 Published a patent in the **Indian Patent Office** titled; **An AI-Powered Digital Wardrobe Management and Context-Aware Outfit Recommendation System**
 * 📖 Published 2 research papers in **IEEE Access**; one on ORB-SLAM3 & the other on Zero-Knowledge Proofs
 * ⚡ Fun fact: I truely enjoy every time I get stuck on my code
 * 🚀 Passionate about continuous learning & applying my knowledge to solve real-world problems
