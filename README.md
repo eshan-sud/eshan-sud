@@ -30,6 +30,16 @@ Software Engineer
 Socials
 -----------------
 
+<!-- Portfolio -->
+<a href="https://eshan-sud.vercel.app/" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" alt="RSS" title="RSS" />
+    </picture>
+</a>
+
+<!-- GitHub -->
 <a href="https://www.github.com/eshan-sud" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
@@ -37,13 +47,74 @@ Socials
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32">
     </picture>
 </a>
+
+<!-- GitLab -->
+<!-- <a href="https://www.gitlab.com/eshan-sud" target="_blank" rel="noreferrer">
+   <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="" />
+       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
+       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
+   </picture>
+</a> -->
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/eshan-sud" target="_blank" rel="noreferrer">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
 </a>
+
+<!-- Twitter / X -->
+<!-- <a href="https://www.x.com/eshan-sud" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
+    </picture>
+</a> -->
+
+<!-- YouTube -->
+<!-- <a href="https://www.youtube.com/@eshan-sud" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
+    </picture>
+</a> -->
+
+<!-- Twitch -->
+<!-- <a href="https://www.twitch.tv/eshan-sud" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" />
+    </picture>
+</a> -->
+
+<!-- Discord -->
+<!-- <a href="https://discord.com/users/eshan-sud" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+    </picture>
+</a> -->
+
+<!-- Stackoverflow -->
+<!-- <a href="https://www.stackoverflow.com/users/eshan-sud" target="_blank" rel="noreferrer">
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" />
+    </picture>
+</a> -->
+
+
+
+<!-- GitHub Followers -->
+<!-- <a href="https://www.github.com/eshan-sud" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eshan-sud?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+
+<!-- Twitch Streaming Status -->
+<!-- <a href="https://www.twitch.tv/eshan-sud" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/eshan-sud?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
 
 
 
@@ -58,17 +129,24 @@ Previously Interned At
 Languages & Tools
 -----------------
 
+<!-- Skill Icons Example Usage: -->
 <!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,flask,git,github,html,java,js,linux,mongodb,mysql,nodejs,npm,opencv,php,postman,py,react,regex,remix,sklearn,svg,tailwind,tensorflow,ubuntu,vscode,windows, " />
-  </a>
-</p>
+<!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=npm,regex,remix,svg,ubuntu,vscode,windows" /></a>
 -->
 
-<!-- Anaconda, Android Studio, Arduino, Babel, Electron, Firebase, Godot, IPFS, Jenkins, Jest, Kafka, Matlab, Maven, Redhat, Stackoverflow, Supabase, Selenium, Solidity, Swift, Three.js, Unity, Unreal, Vercel, Google Colab, GitHub Actions, CMake, raspberrypi -->
+<!-- Anaconda, Android Studio, Arduino, Babel, Electron, Firebase, Godot, IPFS, Jenkins, Jest, Kafka, Matlab, Maven, Redhat, Stackoverflow, Supabase, Selenium, Solidity, Swift, Three.js, Unity, Unreal, Vercel, Google Colab, GitHub Actions, CMake, raspberrypi, ChromaDB, JWT, Nodemailer, ROS2, RViz2, NumPy, Matplotlib, pip, Shell, Hugging Face, OpenAI-Whisper, IEEE, Blockchain, Ethers.js, IPFS, MetaMask, Langchain, Ollama 3.2, Streamlit -->
 
-<p align="center">
+<!-- <!- Ubuntu -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=ubuntu" /></a> -->
+<!-- <!- Windows -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=windows" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=vscode" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=npm" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=supabase" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=regex" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=remix" /></a> -->
+<!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=svg" /></a> -->
+
+
+<!-- <p align="center"> -->
     <!-- C --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="c"></a>
     <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></a>
     <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git/github"></a>
@@ -137,6 +215,13 @@ Badges & GitHub Statistics
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy-7d61bzpey-ryo-ma-s-team.vercel.app/?username=eshan-sud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!-- <a href="http://www.github.com/eshan-sud"><img src="https://github-readme-stats.vercel.app/api?username=eshan-sud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eshan-sud's GitHub stats" /></a> -->
+
+<!-- <a href="http://www.github.com/eshan-sud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-sud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+
+<!-- <a href="https://github.com/eshan-sud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-sud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy-7d61bzpey-ryo-ma-s-team.vercel.app/?username=eshan-sud&theme=onedark" alt="GitHub Trophies" />
@@ -156,4 +241,9 @@ Badges & GitHub Statistics
     </picture> -->
 </p>
 
+
+
+<!-- ### Support Me -->
+
+<!-- <a href="https://www.buymeacoffee.com/eshan-sud"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a> -->
 
