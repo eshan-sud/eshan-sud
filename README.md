@@ -146,7 +146,7 @@ Languages & Tools
 <!-- <!- Name -> <a href="https://skillicons.dev"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=svg" /></a> -->
 
 
-<!-- <p align="center"> -->
+<p align="center">
     <!-- C --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="c"></a>
     <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></a>
     <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git/github"></a>
