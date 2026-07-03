@@ -15,12 +15,15 @@ Software Engineer
 * 🌐 <a href="https://eshan-sud.vercel.app/" target="_blank">Portfolio</a>
 * 🌍 I'm based in **New Delhi, India**
 * ✉️ You can contact me at [eshansud22@gmail.com](mailto:eshansud22@gmail.com)
-* 🎓 Currently a **B.Tech in Computer Science & Engineering with a minor in Data Analytics** at <a href="https://jaipur.manipal.edu/" rel="nofollow">Manipal University Jaipur</a>
+* 🎓 **B.Tech in Computer Science & Engineering with a Minor in Data Analytics** at <a href="https://jaipur.manipal.edu/" rel="nofollow">Manipal University Jaipur</a>
 * 💼 Currently **interning at Deloitte India** as a **PDI & CMS Intern**
-* 📜 Published a patent in the **Indian Patent Office** titled; **A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform**
-* 📜 Published a patent in the **Indian Patent Office** titled; **An AI-Powered Digital Wardrobe Management and Context-Aware Outfit Recommendation System**
-* 📖 Published 2 research papers in **IEEE Access**; one on ORB-SLAM3 & the other on Zero-Knowledge Proofs
-* ⚡ Fun fact: I truely enjoy every time I get stuck on my code
+* 📜 Published **2** patents in the **Indian Patent Office** titled;
+    - **"A Method and a System of Real-Time Multi-Mode 3D Sparse SLAM System Using ORB-SLAM3 on an Embedded Platform"**, &
+    - **"An AI-Powered Digital Wardrobe Management and Context-Aware Outfit Recommendation System"**
+* 📖 Published 2 research papers in **IEEE Access** titled;
+    - **"The Power I Know: Zero-Knowledge Proofs and their Transformative Role in the Future of Cryptography"**, &
+    - **"An In-depth Evaluation of ORB-SLAM3 on the Raspberry Pi 5: Performance, Stability, and Design Guidelines for Embedded SLAM"**
+* ⚡ Fun fact: I enjoy the moments each time I get stuck on a problem
 * 🚀 Passionate about continuous learning & applying my knowledge to solve real-world problems
 * 🤝 Looking forward to connecting with professionals & exploring opportunities to contribute to innovative projects
 <!-- * 🌱 I'm currently exploring: Cloud technologies -->
@@ -223,10 +226,10 @@ Badges & GitHub Statistics
 
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy-7d61bzpey-ryo-ma-s-team.vercel.app/?username=eshan-sud&theme=onedark" alt="GitHub Trophies" />
-    </a>
-    <br><br>
+    </a> -->
+    <!-- <br><br> -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
         <img height="180em" src="profile/stats-light.svg">
